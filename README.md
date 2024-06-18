@@ -1,2 +1,3 @@
 # MangoSteenService
 山竹记账后端服务，java版本
+MangoSteenService是我用来学习java后台的联系项目
